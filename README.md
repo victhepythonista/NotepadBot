@@ -15,8 +15,9 @@ I had nothing to do , just bored and just hacked it in some hours ..... enjoy
 import the TypingBot class from typing_bot.py
 
 use the main methods of the TypingBot class :
-  > TypeFileOnNotepad - to write data from a file on notepad
-  > TypeOnNotepad - to write text data on notepad
+> TypeFileOnNotepad - to write data from a file on notepad
+  
+> TypeOnNotepad - to write text data on notepad
 
 
 # I  may or may note update this code .....feel free to contribute
