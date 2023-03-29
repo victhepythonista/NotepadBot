@@ -1,5 +1,5 @@
 # NotepadBot
-A simple , (pointless )  bot that automatically types texts or files  on notepad .
+A simple , (pointless )  bot that automatically opens notepad on Windowsand  types texts or file data .
 
 I had nothing to do , just bored and just hacked it in some hours ..... enjoy
 # system requirements 
